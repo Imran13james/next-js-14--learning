@@ -82,3 +82,5 @@ export default function Page({params}:{params:{clientsid:string}}) {
         </>
     );
 }
+// client side rendring
+
